@@ -47,4 +47,4 @@ The application has two tabs:
 ### Usage
 Run the script:
 ```bash
-python EXPCalc.py
+python EXPCalc.py (same for over1000.py)
